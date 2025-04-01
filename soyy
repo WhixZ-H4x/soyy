@@ -1,7 +1,7 @@
 -- MM2 - LixModz
 -- Updated ESP, Movement, Utility Features with "Kill All" and Coin/Beachball Farming
 
-local repo = 'https:
+local repo = 'https://raw.githubusercontent.com/WhixZ-H4x/soyy/refs/heads/main/soyy
 
 local Library = loadstring(game:HttpGet(repo .. 'Library.lua'))()
 local ThemeManager = loadstring(game:HttpGet(repo .. 'addons/ThemeManager.lua'))()
